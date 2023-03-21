@@ -223,7 +223,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![image](./output.jpg)
+![image](./image.jpg)
  
  
  
